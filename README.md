@@ -24,11 +24,11 @@ The repository includes an executed evaluation notebook, the human-review workbo
 
 | Run | Accuracy | Correct predictions |
 | --- | ---: | ---: |
-| Baseline prompt | 92% | 92 / 100 |
-| Improved prompt | 97% | 97 / 100 |
-| Change | +5 percentage points | +5 |
+| Baseline prompt | 90.2% | 92 / 102 |
+| Improved prompt | 90.2% | 93 / 102 |
+| Change | +0 percentage points | +0 |
 
-The revised prompt improved routing accuracy while preserving the individual prediction records needed for failure analysis.
+
 
 ## Evaluation Workflow
 
